@@ -9,4 +9,4 @@ configmap:
 
 image:
   name: devopsjourney1/mywebapp@sha256
-  tag: 84d7ac87c34e
+  tag: 84d7ac87c34e73673ece5ac1cedee2696c1001cc293cd17b040eb861d5f5c944

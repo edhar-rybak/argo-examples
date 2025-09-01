@@ -9,4 +9,4 @@ configmap:
 
 image:
   name: devopsjourney1/mywebapp
-  tag: latest
+  tag: sha256:bd1ec683857029c4fba4af1f931cb9f7aeb34b06a792ae892754681d49f2cdae
